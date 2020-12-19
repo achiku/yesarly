@@ -80,6 +80,7 @@ func main() {
 		log.Printf("current page %d", res.Page)
 		posts = append(posts, res.Posts...)
 		nextPage = res.NextPage
+		// not necessary but just be nice...
 		time.Sleep(time.Duration(2) * time.Second)
 	}
 	sort.Slice(posts, func(i, j int) bool {
