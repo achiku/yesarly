@@ -1,0 +1,148 @@
+{
+  "posts": [
+    {
+      "number": 1,
+      "name": "name 1",
+      "full_name": "PJ/Marketing/name 1",
+      "wip": false,
+      "created_at": "2020-12-18T22:40:08+09:00",
+      "message": "Update post.",
+      "kind": "stock",
+      "comments_count": 0,
+      "tasks_count": 0,
+      "done_tasks_count": 0,
+      "url": "https://test-team.esa.io/posts/1",
+      "updated_at": "2020-12-18T22:45:21+09:00",
+      "tags": [],
+      "category": "PJ/Marketing",
+      "revision_number": 2,
+      "created_by": {
+        "myself": true,
+        "name": "知久翼",
+        "screen_name": "achiku",
+        "icon": "https://img.esa.io/uploads/production/members/aa/icon/aa.jpg"
+      },
+      "updated_by": {
+        "myself": true,
+        "name": "知久翼",
+        "screen_name": "achiku",
+        "icon": "https://img.esa.io/uploads/production/members/aa/icon/aa.jpg"
+      },
+      "stargazers_count": 0,
+      "watchers_count": 1,
+      "star": false,
+      "watch": true,
+      "sharing_urls": null
+    },
+    {
+      "number": 2,
+      "name": "name 2",
+      "full_name": "Flow/2020/12/17/name 2",
+      "wip": false,
+      "created_at": "2020-12-17T21:19:37+09:00",
+      "message": "Update post.",
+      "kind": "flow",
+      "comments_count": 5,
+      "tasks_count": 0,
+      "done_tasks_count": 0,
+      "url": "https://test-team.esa.io/posts/2",
+      "updated_at": "2020-12-18T20:03:31+09:00",
+      "tags": [
+        "tag 1"
+      ],
+      "category": "Flow/2020/12/17",
+      "revision_number": 2,
+      "created_by": {
+        "myself": true,
+        "name": "知久翼",
+        "screen_name": "achiku",
+        "icon": "https://img.esa.io/uploads/production/members/aa/icon/aa.jpg"
+      },
+      "updated_by": {
+        "myself": true,
+        "name": "知久翼",
+        "screen_name": "achiku",
+        "icon": "https://img.esa.io/uploads/production/members/aa/icon/aa.jpg"
+      },
+      "stargazers_count": 0,
+      "watchers_count": 3,
+      "star": false,
+      "watch": true,
+      "sharing_urls": null
+    },
+    {
+      "number": 3,
+      "name": "name 3",
+      "full_name": "PJ/Marketing/name 3",
+      "wip": true,
+      "created_at": "2020-12-14T17:53:12+09:00",
+      "message": "Update post.",
+      "kind": "stock",
+      "comments_count": 0,
+      "tasks_count": 0,
+      "done_tasks_count": 0,
+      "url": "https://test-team.esa.io/posts/3",
+      "updated_at": "2020-12-17T13:09:45+09:00",
+      "tags": [],
+      "category": "PJ/Marketing",
+      "revision_number": 2,
+      "created_by": {
+        "myself": true,
+        "name": "知久翼",
+        "screen_name": "achiku",
+        "icon": "https://img.esa.io/uploads/production/members/aa/icon/aa.jpg"
+      },
+      "updated_by": {
+        "myself": true,
+        "name": "知久翼",
+        "screen_name": "achiku",
+        "icon": "https://img.esa.io/uploads/production/members/aa/icon/aa.jpg"
+      },
+      "stargazers_count": 0,
+      "watchers_count": 1,
+      "star": false,
+      "watch": true,
+      "sharing_urls": null
+    },
+    {
+      "number": 4,
+      "name": "name 4",
+      "full_name": "PJ/Marketing",
+      "wip": false,
+      "created_at": "2020-12-14T19:40:06+09:00",
+      "message": "Update post.",
+      "kind": "stock",
+      "comments_count": 5,
+      "tasks_count": 0,
+      "done_tasks_count": 0,
+      "url": "https://test-team.esa.io/posts/4",
+      "updated_at": "2020-12-16T16:14:27+09:00",
+      "tags": [],
+      "category": "PJ/Marketing",
+      "revision_number": 2,
+      "created_by": {
+        "myself": true,
+        "name": "知久翼",
+        "screen_name": "achiku",
+        "icon": "https://img.esa.io/uploads/production/members/aa/icon/aa.jpg"
+      },
+      "updated_by": {
+        "myself": true,
+        "name": "知久翼",
+        "screen_name": "achiku",
+        "icon": "https://img.esa.io/uploads/production/members/aa/icon/aa.jpg"
+      },
+      "stargazers_count": 0,
+      "watchers_count": 2,
+      "star": false,
+      "watch": false,
+      "sharing_urls": null
+    }
+  ],
+  "prev_page": null,
+  "next_page": 2,
+  "total_count": 22,
+  "page": 1,
+  "per_page": 20,
+  "max_per_page": 100
+}
